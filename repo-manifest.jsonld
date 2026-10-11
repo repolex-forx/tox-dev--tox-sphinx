@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-sphinx/commit/c767a1640026d82e839fc27da5915dac3e4c0676",
       "git:hexsha": "c767a1640026d82e839fc27da5915dac3e4c0676",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T22:17:21.732642+00:00"
     }
   ]
 }
