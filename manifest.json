@@ -1,0 +1,15 @@
+{
+  "manifest_version": "1.0",
+  "org": "tox-dev",
+  "repo": "tox-sphinx",
+  "versions": [
+    {
+      "commit": "c767a1640026d82e839fc27da5915dac3e4c0676",
+      "parsed_at": "2026-10-11T22:15:53.333428+00:00",
+      "filetree": "filetree/c767a1640026d82e839fc27da5915dac3e4c0676.nq.gz"
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
