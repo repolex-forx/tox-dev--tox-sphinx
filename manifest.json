@@ -6,7 +6,10 @@
     {
       "commit": "c767a1640026d82e839fc27da5915dac3e4c0676",
       "parsed_at": "2026-10-11T22:15:53.333428+00:00",
-      "filetree": "filetree/c767a1640026d82e839fc27da5915dac3e4c0676.nq.gz"
+      "filetree": "filetree/c767a1640026d82e839fc27da5915dac3e4c0676.nq.gz",
+      "ast": [
+        "aggregate/ast/c767a1640026d82e839fc27da5915dac3e4c0676/chunk-001.nq.gz"
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
