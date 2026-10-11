@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "tox-sphinx",
+  "versions": [
+    {
+      "commit": "c767a1640026d82e839fc27da5915dac3e4c0676",
+      "tag": "",
+      "parsed_at": "2026-10-11T22:17:21.733107+00:00"
+    }
+  ]
+}
